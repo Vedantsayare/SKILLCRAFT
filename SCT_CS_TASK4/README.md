@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Keylogger and Viewer</title>
-  <style>
-    body { font-family: Arial, sans-serif; background: #121212; color: #e0e0e0; max-width: 900px; margin: 2rem auto; }
-    h1, h2 { color: #fff; }
-    pre { background: #1e1e1e; padding: 1em; border-radius: 6px; overflow-x: auto; }
-    code { color: #fdd835; }
-  </style>
-</head>
-<body>
 
 <h1>⌨️ Real-Time Keylogger & Log Viewer</h1>
 <p>A keylogger tool written in Python that logs keystrokes with timestamps and displays them via a real-time viewer dashboard.</p>
