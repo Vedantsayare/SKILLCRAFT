@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Image Encryption Tool</title>
-  <style>
-    body { font-family: Arial, sans-serif; background: #121212; color: #e0e0e0; max-width: 900px; margin: 2rem auto; }
-    h1, h2 { color: #fff; }
-    pre { background: #1e1e1e; padding: 1em; border-radius: 6px; overflow-x: auto; }
-    code { color: #fdd835; }
-  </style>
-</head>
-<body>
 
 <h1>🖼️ Image Encryption & Decryption Tool</h1>
 <p>This tool encrypts or decrypts image files using sine wave shifting and XOR transformation based on a numeric key.</p>
