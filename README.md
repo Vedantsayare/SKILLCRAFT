@@ -12,12 +12,12 @@
 
   <h2>📁 Project Structure</h2>
   <pre><code>SkillCraft_Technology/
-├── SCT_CS_1/   # Caesar Cipher Encryptor/Decryptor
-├── SCT_CS_2/   # PixelCrypt: Image Encryption Tool
-├── SCT_CS_3/   # Password Strength Assessment Tool
-└── SCT_CS_4/   # Ethical Keylogger with Log Viewer
+├── SCT_CS_Task1   # Caesar Cipher Encryptor/Decryptor
+├── SCT_CS_Task2   # PixelCrypt: Image Encryption Tool
+├── SCT_CS_Task3   # Password Strength Assessment Tool
+└── SCT_CS_Task4   # Ethical Keylogger with Log Viewer
 </code></pre>
-  <p>Each folder contains source code, a dedicated <code>README.html</code>, and optional output/demo files.</p>
+  <p>Each folder contains source code, a dedicated <code>README.html</code></p>
 
   <hr>
 
@@ -35,16 +35,16 @@
 
   <h2>📚 Tasks Overview</h2>
 
-  <h3>🔐 Task 1 – Caesar Cipher <code>(SCT_CS_1/)</code></h3>
+  <h3>🔐 Task 1 – Caesar Cipher <code>(SCT_CS_Task1)</code></h3>
   <p>A web-based Caesar Cipher tool that allows users to <strong>encrypt</strong>, <strong>decrypt</strong>, or <strong>brute-force</strong> any text using shift-based logic.</p>
 
-  <h3>🖼️ Task 2 – PixelCrypt: Image Encryption Tool <code>(SCT_CS_2/)</code></h3>
+  <h3>🖼️ Task 2 – PixelCrypt: Image Encryption Tool <code>(SCT_CS_Task2)</code></h3>
   <p>Encrypts or decrypts images using sine-based pixel shifting and XOR operations. Users can input a numeric key to control the transformation.</p>
 
-  <h3>🔑 Task 3 – Password Strength Checker <code>(SCT_CS_3/)</code></h3>
+  <h3>🔑 Task 3 – Password Strength Checker <code>(SCT_CS_Task3)</code></h3>
   <p>A dynamic password checker that validates password strength and provides live feedback based on length, case sensitivity, digits, and special characters.</p>
 
-  <h3>🎹 Task 4 – Ethical Keylogger + Log Viewer <code>(SCT_CS_4/)</code></h3>
+  <h3>🎹 Task 4 – Ethical Keylogger + Log Viewer <code>(SCT_CS_Task4)</code></h3>
   <p>Keylogger logs all keystrokes with timestamps and displays them through a real-time Streamlit dashboard. Supports download and clearing of logs.</p>
 
   <hr>
