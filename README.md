@@ -52,7 +52,7 @@
   <h2>👨‍💻 Author</h2>
   <p><strong>Vedant Sayare</strong><br>
   Cybersecurity Intern @ SkillCraft Technology</p>
-  <p>🔗 <a href="www.linkedin.com/in/vedant-sayare-4680542b5" target="_blank">LinkedIn</a></p>
+  <p>🔗<a href="https://www.linkedin.com/in/vedant-sayare-4680542b5" target="_blank">LinkedIn</a></p>
 
 </body>
 </html>
